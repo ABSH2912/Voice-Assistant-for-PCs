@@ -48,5 +48,5 @@ The voice assistant currently can run the following commands:
 - Simple arithmetic operations.
 
 # Future Goals:
-The voice assistant can prove to be a very solid fundamental to a lot of functions and can even be a key to expansion into integration with Internt of Things.
+- The voice assistant can prove to be a very solid fundamental to a lot of functions and can even be a key to expansion into integration with Internet of Things.
 - Including more and more commands for it to be compatible with, aiming to automate close to 90% of standard PC workflows.
